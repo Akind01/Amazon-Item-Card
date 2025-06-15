@@ -13,9 +13,9 @@ https://akind01.github.io/Amazon-Item-Card/
 
 🛠️ Technologies Used :
 
-> HTML5 – Markup structure of the card
-> CSS3 – Styling and layout using Flexbox
-> Amazon Fonts – For typography
+<li>HTML5 – Markup structure of the card</li>
+<li>CSS3 – Styling and layout using Flexbox</li>
+<li>Amazon Fonts – For typography</li>
 
 
 ✨ Features : 
