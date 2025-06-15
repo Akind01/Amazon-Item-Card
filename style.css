@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+    font-family: "Amazon Ember", Arial, Helvetica, sans-serif;
+}
+
+.mainBody{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(20, 163, 185);
+    height: 260px;
+    width: 170px;
+    border-radius: 8px;
+    border: 1.5px solid rgb(255, 237, 145);
+}
+
+.mainBody:hover{
+   box-shadow: 0 4px 10px rgb(255, 255, 255);         
+}
+
+.priceSection{
+    width: 170px;
+    height: 53.69px;
+    background-color: rgb(255, 237, 145);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: center;
+    font-size: small;
+    padding-top: 10px;
+}
+
+.specList{
+    color: black;
+    font-size: x-small;
+    font-weight: bold;
+}
+
+.specList ul{
+    font-size: smaller;
+    padding-left: 18px;
+}
+
+.imgSection{
+    display: flex;
+    width: 100%;
+    height: 145.33px;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgSection img{
+    width: 100%;
+    height: 100%;
+}
+
+.titleHeader{
+    border-top-left-radius: 7.2px;
+    border-top-right-radius: 7.2px;
+    height: 65px;
+    text-align: center;
+}
+
+.headingContent{
+    position: absolute;
+    top: 0px;
+    left: 25px;
+}
+
+        
